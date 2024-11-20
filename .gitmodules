@@ -1,0 +1,6 @@
+[submodule "r3f-mesh-portal-material"]
+	path = r3f-mesh-portal-material
+	url = https://github.com/username/r3f-mesh-portal-material.git
+[submodule "r3f-vite-starter"]
+	path = r3f-vite-starter
+	url = https://github.com/username/r3f-vite-starter.git

@@ -1,3 +1,7 @@
+Just do
+yarn
+yarn dev
+
 We'll use BlockadeLabs amazing Skybox AI tool, to create the different monster worlds
 
 Live demo

@@ -3,4 +3,8 @@
 	url = https://github.com/wass08/r3f-mesh-portal-material.git
 [submodule "r3f-vite-starter"]
 	path = r3f-vite-starter
+<<<<<<< HEAD
 	url = https://github.com/wass08/r3f-vite-starter.git
+=======
+	url = https://github.com/wass08/r3f-vite-starter.git
+>>>>>>> cc21f2bc4bc58bf73b57e88e7398763f51637fbc
